@@ -17,11 +17,13 @@ It should all fit together nicely with a few bolts using the holes provided in t
 
 There are two separate 3d prints for the case which go together, with the PCB in the middle.
 
-![Screenshot of case][LINK]
+![Screenshot of case](https://github.com/LayanJethwa/dj-controller-hackpad/blob/main/assets/full-model.png)
 
-![Screenshot of case bottom][LINK]
+![Screenshot of case bottom](https://github.com/LayanJethwa/dj-controller-hackpad/blob/main/assets/bottom-model.png)
 
-![Screenshot of case top][LINK]
+![Screenshot of case top](https://github.com/LayanJethwa/dj-controller-hackpad/blob/main/assets/top-model.png)
+
+![Screenshot of PCB model](https://github.com/LayanJethwa/dj-controller-hackpad/blob/main/assets/pcb-model.png)
 
 Made in Fusion360.
 ## PCB
@@ -29,10 +31,10 @@ Made in Fusion360.
 Here is the PCB, made in KiCad. I spent a lot of time on the wiring (I thought it was a topology problem and then realised you can use the back as well)
 
 Schematic
-![Schematic][LINK]
+![Schematic](https://github.com/LayanJethwa/dj-controller-hackpad/blob/main/assets/schematic.png)
 
 PCB
-![PCB][LINK]
+![PCB](https://github.com/LayanJethwa/dj-controller-hackpad/blob/main/assets/pcb.png)
 ## Firmware Overview
 
 The controller uses KMK Firmware, it is not currently interfaced with the DJ software (I use VirtualDJ) as I don't yet have the hardware for testing.
