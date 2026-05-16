@@ -49,3 +49,11 @@ This should be all the materials needed to make the controller:
 - 2x 4.7kΩ resistors: R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal
 - 8x Cherry MX switches: SW_Cherry_MX_1.00u_PCB
 - 2x Alps rotary encoders: RotaryEncoder_Alps_EC11E_Vertical_H20mm
+
+## Build
+
+I am currently in the process of building it, thanks to the wonderful team at PCBWay who sponsored the project!
+
+![Board](https://github.com/LayanJethwa/dj-controller-hackpad/blob/main/IMG_20260516_154449.jpg)
+
+This project was sponsored by PCBWay, who provided PCB fabrication support. PCBWay offers high-quality PCB manufacturing and assembly services for engineers, students, and hobbyists worldwide. I am very thankful for their support of this project, and they even allowed me to order a new set of boards due to a mistake in the routing.
